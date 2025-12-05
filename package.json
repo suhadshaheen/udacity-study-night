@@ -1,0 +1,32 @@
+{
+  "name": "study-night",
+  "version": "1.0.0",
+  "description": "Flashcard testing app project",
+  "type": "module",
+  "scripts": {
+    "gulp": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udacity/nd0011-c4-starter.git"
+  },
+  "author": "suhad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/udacity/nd0011-c4-starter/issues"
+  },
+  "homepage": "https://github.com/udacity/nd0011-c4-starter#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "chai": "^6.2.1",
+    "cypress": "^15.7.1",
+    "eslint": "^9.39.1",
+    "globals": "^16.5.0",
+    "gulp": "^5.0.1",
+    "gulp-cli": "^3.1.0",
+    "gulp-shell": "^0.8.0",
+    "mocha": "^11.7.5",
+    "parcel": "^2.16.1"
+  }
+}
