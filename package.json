@@ -4,8 +4,9 @@
   "description": "Flashcard testing app project",
   "type": "module",
   "scripts": {
-    "gulp": "gulp",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha",
+    "cypress": "cypress open",
+    "gulp": "gulp"
   },
   "repository": {
     "type": "git",
